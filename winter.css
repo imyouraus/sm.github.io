@@ -1,0 +1,41 @@
+html, body {
+    background-color: rgb(230, 228, 228);
+    margin: 0;
+    padding: 0;
+}
+
+.top-header {
+    background-color: rgb(203, 225, 250);
+    padding: 10px;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    pad: 20px;
+    margin: 30px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+}
+
+.button {
+    color: rgb(255, 253, 253);
+    background-color: rgb(203, 225, 250);
+    pad: 50px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.bottom-footer {
+    background-color: rgb(204, 204, 204);
+    padding: 20px;
+    text-align: center;
+}
